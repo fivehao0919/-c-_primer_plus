@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "memory": "cpp",
+        "__bit_reference": "cpp",
+        "bitset": "cpp",
+        "initializer_list": "cpp",
+        "iterator": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "ostream": "cpp",
+        "iosfwd": "cpp",
+        "__config": "cpp",
+        "__nullptr": "cpp",
+        "cstddef": "cpp",
+        "exception": "cpp",
+        "new": "cpp",
+        "stdexcept": "cpp",
+        "type_traits": "cpp",
+        "typeinfo": "cpp",
+        "algorithm": "cpp"
+    }
+}

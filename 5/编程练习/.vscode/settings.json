@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "__tuple": "cpp",
+        "array": "cpp",
+        "ostream": "cpp",
+        "istream": "cpp",
+        "bitset": "cpp",
+        "initializer_list": "cpp",
+        "iterator": "cpp",
+        "memory": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "utility": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Enabled"
+}
